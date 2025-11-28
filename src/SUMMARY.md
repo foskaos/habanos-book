@@ -1,5 +1,9 @@
 # Summary
 
+[Download EPUB](download.md)
+
+---
+
 - [Introduction](introduction.md)
 - [Anatomy of a Habano](anatomy-of-a-habano.md)
 - [Tobacco paradise](tobacco-paradise.md)
