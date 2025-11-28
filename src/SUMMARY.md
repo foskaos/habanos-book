@@ -1,6 +1,6 @@
 # Summary
 
-[Download EPUB](download.md)
+- [Download EPUB](download.md)
 
 ---
 
