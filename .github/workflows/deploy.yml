@@ -33,13 +33,12 @@ jobs:
 
       - name: Generate EPUB
         run: |
-          pandoc src/SUMMARY.md src/*.md src/brands/*.md \
+          pandoc book.md \
             -o book/The-World-of-Habanos.epub \
             --toc --toc-depth=2 \
-            --epub-cover-image=src/book_images/introduction_fondointro-800.jpg \
+            --epub-cover-image=book_images/introduction_fondointro-800.jpg \
             --metadata title="The World of Habanos" \
-            --metadata author="Habanos S.A." \
-            --resource-path=src
+            --metadata author="Habanos S.A."
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
