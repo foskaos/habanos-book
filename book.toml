@@ -1,0 +1,11 @@
+[book]
+title = "The World of Habanos"
+authors = ["Habanos S.A."]
+language = "en"
+description = "A comprehensive guide to Cuban cigars - from cultivation to enjoyment"
+
+[output.html]
+git-repository-url = "https://github.com/foskaos/habanos-book"
+
+[output.epub]
+cover-image = "book_images/introduction_fondointro-800.jpg"
