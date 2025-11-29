@@ -67,3 +67,5 @@ The coloured strip on the short sides of the box, often showing the size name.
 ### EL TAPACLAVO
 
 A seal fixed over the nail that secures the lid of some boxes.
+
+ |
